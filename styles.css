@@ -1,0 +1,35 @@
+.header {
+	background-color: #5e5454;
+	height: 80px;
+	position: relative;
+}
+.header-text {
+	color: white;
+	font-family: 'Lato', sans-serif;
+	font-size: 30px;
+	margin-left: 150px;
+}
+.header-link {
+	color: white;
+	font-family: 'Lato', sans-serif;
+	font-size: 15px;
+	margin-right: 150px;
+	text-decoration: none;
+	margin: 15px;
+	vertical-align: middle;
+}
+.about-me {
+	background-color: #490808;
+}
+.experience {
+	background-color: #5e5454;
+}
+.education {
+	background-color: #490808;
+}
+.movies {
+	background-color: #5e5454;
+}
+.contact {
+	background-color: #490808;
+}
